@@ -36,6 +36,7 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'androidx.core:core-ktx:1.3.2'
+<<<<<<< HEAD
     implementation 'androidx.constraintlayout:constraintlayout:2.0.1'
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -45,6 +46,9 @@ dependencies {
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9-native-mt'
 >>>>>>> fe44b36 (build(deps): bump kotlinx-coroutines-android in /mobile app)
 =======
+=======
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.2'
+>>>>>>> 8c47713 (build(deps): bump constraintlayout from 2.0.1 to 2.0.2 in /mobile app)
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9-native-mt-2'
 >>>>>>> 71c56c0 (build(deps): bump kotlinx-coroutines-android in /mobile app)
     testImplementation 'junit:junit:4.13'
