@@ -80,9 +80,13 @@ dependencies {
 >>>>>>> c5655da (build(deps): bump kotlinx-coroutines-android in /mobile app)
 =======
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.4.2-native-mt'
+<<<<<<< HEAD
 >>>>>>> 3bb7843 (build(deps): bump kotlinx-coroutines-android in /mobile app)
     testImplementation 'junit:junit:4.13.1'
 >>>>>>> 18a1836 (build(deps): bump junit from 4.13 to 4.13.1 in /mobile app)
+=======
+    testImplementation 'junit:junit:4.13.2'
+>>>>>>> 0fbe6aa (build(deps): bump junit from 4.13.1 to 4.13.2 in /mobile app)
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
 >>>>>>> 70bc319 (build(deps): bump junit from 1.1.1 to 1.1.2 in /mobile app)
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
