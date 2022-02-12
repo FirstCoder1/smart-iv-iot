@@ -101,7 +101,7 @@ dependencies {
 >>>>>>> 0fbe6aa (build(deps): bump junit from 4.13.1 to 4.13.2 in /mobile app)
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
 >>>>>>> 70bc319 (build(deps): bump junit from 1.1.1 to 1.1.2 in /mobile app)
-    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
     implementation 'com.unstoppable:submitbutton:1.1.3'
 
